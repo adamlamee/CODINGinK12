@@ -1,0 +1,22 @@
+## Current projects
+Our [interactive coding activities](https://beta.mybinder.org/v2/gh/adamlamee/CODINGinK12-binderFiles/master?filepath=index.ipynb) cover a range of science topics, some computer science basics, and even an analysis of word frequencies in classic texts. If it doesn't launch automatically, try a different browser (IE and Echo sometimes put up a fight).
+
+[Seminole County School District](https://beta.mybinder.org/repo/SCPSscience/Notebooks) has developed coding activities for 6th and 7th grade science along with student worksheets. They're rolling this out in district-wide in 2017-18, with 8th grade to follow in 2018-19. Bryan Turner (Milwee MS) and Adam Goodman (Markham Woods MS) led the efforts, with help from UCF PhysTEC and its undergrads. Source files on the [SCPSscience GiHub](https://github.com/SCPSscience). Like we need another reason to envy how Seminole County does science. Imagine arriving to high school with three years of scientific computing experience ... wow.
+
+## Do students need to learn how to program?
+There's increasing momentum for coding in schools and that's a good thing. Every student should be exposed to computer programming -- equal access to lucrative careers depends on it. However, a dedicated computer science course is not the answer for all (or even most) students. Math and science courses are prime territory for this task. Here are some ways my colleagues and I are making that happen. Have a question or want to contribute? Send me an email at adamlamee@gmail.com.
+
+## How we do it
+Teachers have enough to cover without adding computer programming to the list. Our goal is to use computer programming as a tool to address science content - the coding is secondary. So you won't see loops and conditionals taught explicitly, but that allows non-CS-fluent teachers to use these activities with their classes in useful manner. You can find the source files on the project's GitHub. These resources are free to use and modify, but not for resale. If you're a teacher using this with your own students, let us know how you're implementing it (because we're interested in that sort of thing). Others: see the project's GitHub for license information.
+- [Python](https://www.codecademy.com/learn/learn-python) is pretty intuitive and doesn't have many of the syntax requirements other languages do.
+- [Jupyter](http://jupyter.org/) is free, runs in a browser (so it looks less daunting than a terminal window or traditional IDE), and displays markdown, code, and output all in the same window. Install Jupyter on your own computer with this [how-to guide](https://docs.google.com/document/d/1QKQzZZMluGtZysF5Qb0Hz4gMC8_1JHm0hliEvESzSV8/pub).
+- [Binder](https://beta.mybinder.org/) makes the Jupyter notebooks in your GitHub repository interactive for any device with a browser, no install needed. Here's a [quick how-to](https://drive.google.com/open?id=1meQsFtU8gH6q81qUEHI9ivDBDgT_UxtAGGa7Oa3N1AE).
+
+Make it happen in your school! Use the existing activities linked above in the current projects section or write your own (we can help with that). We can also help you develop an implementation plan that suits your site's needs and resources. My colleagues and I conduct teacher workshops and district-wide professional development on coding, the Physical Science content, reformed pedagogy, and digital literacy. Drop a line to adamlamee@gmail.com if you'd like to learn more.
+
+## More resources
+- [Presentation](https://drive.google.com/open?id=0B5OQDGmunCOMU0wtZk1BOFIyWjg) from the FL Assoc of Science Supervisors.
+- [code.org](https://code.org/) is the go-to place for fun, free activities for teachers and students to learn about coding.
+- [Code Academy](https://www.codecademy.com/) has great self-paced courses to teach yourself a programming language or new job skill. One of my former students used it to learn Python in a weekend, got a developer job that Monday, and a year later is at a cool startup, all without a college degree. And that's not uncommon.
+- [CERN Open Data](http://opendata.cern.ch/?ln=en) includes educational resources on particle physics and offers students (and the general public) the opportunity to access and analyze authentic data for the Large Hardon Collider. Yeah, it's pretty cool.
+- [Particle Physics Playground](http://particle-physics-playground.github.io/) provides Jupyter notebook exercises with particle detector data from CMS and CLEO.
