@@ -6,8 +6,5 @@ docs:
 - title: Introduction
   url: introduction.html
 
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+- title: Other
+  url: other.html
