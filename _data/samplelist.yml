@@ -1,0 +1,8 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Other
+  url: other.html
