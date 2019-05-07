@@ -1,9 +1,7 @@
 # Coding in K12  
 
-## [Coding Activities](https://colab.research.google.com/github/adamlamee/CODINGinK12-notebooksG/blob/master/index.ipynb)  
-Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. Try out the activities on [Google Colaboratory](https://colab.research.google.com/github/adamlamee/CODINGinK12-notebooksG/blob/master/index.ipynb). You'll need a Google login, but you can save to your Drive.  
-
-These activities don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. You can run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
+## Coding Activities  
+Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
 
 ### Start here
 - [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
