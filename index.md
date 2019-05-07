@@ -7,6 +7,8 @@ Our coding activities cover a range of science topics, some computer science bas
 - [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
 
 ### EarthSpace Science
+- <a href="https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb" target="_blank">Link</a> uncovers plate techtonics using seismic data.
+
 - [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate techtonics using seismic data.
 - [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
