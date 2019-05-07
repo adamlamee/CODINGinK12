@@ -43,7 +43,7 @@ You can install it on your own device with [Anaconda](https://www.anaconda.com/d
 
 ## Collaborations  
 
-### Seminole County  
+### Seminole County, FL  
 We helped Seminole County School District develop [coding activities](https://mybinder.org/v2/gh/SCPSscience/Notebooks/master) for 6th and 7th grade science along with [student worksheets](https://github.com/SCPSscience/booklet). Their pilot began in spring 2017 led by Bryan Turner (Milwee MS) and Adam Goodman (Markham Woods MS) with help from UCF PhysTEC and its undergrads. Like we need another reason to envy how Seminole County does science? Find the source files on [their GitHub](https://github.com/SCPSscience).  
 
 ### Orange County, FL  
