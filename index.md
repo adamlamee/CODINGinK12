@@ -6,10 +6,8 @@ Our coding activities cover a range of science topics, some computer science bas
 ### Start here
 - [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
 
-### EarthSpace Science
-- <a href="https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb" target="_blank">Link</a> uncovers plate techtonics using seismic data.
-
-- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate techtonics using seismic data.
+### Earth & Space Science
+- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
 - [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
 - [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
@@ -17,7 +15,7 @@ Our coding activities cover a range of science topics, some computer science bas
 ### Physical Science
 - [Motion](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/motion.ipynb) plots position vs. time data and fits a trendline; can be used with student-collected data.
 - Motion graph matching of [position](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb) or [velocity](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) to model motion and practice relating algebraic equations with the graphs they represent.
-- [Elements](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) looks for trends in the peridodic table.
+- [Elements](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) looks for trends in the periodic table.
 - [Muon Invariant Mass](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant_mass.ipynb) let's you practice doing math (and the Pythagorean theorem) while you learn some basic of relativistic kinematics with data from CERN's LHC.
 - [CMS Event Analysis](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic_decays.ipynb) applies conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
 
@@ -25,11 +23,11 @@ Our coding activities cover a range of science topics, some computer science bas
 - [Genes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/genes.ipynb) predicts genotypes of offspring with a Punnett square.
 - [Heat](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/heat.ipynb) investigates the relationship between heat and temperature.
 - [Populations](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/populations.ipynb) plot and interpret data on manatee population over time.
-- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate techtonics using seismic data.
+- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
 
 ## Do students need to learn how to code?  
 There's increasing momentum for coding in schools and that's a good thing. Every student should be exposed to computer programming -- equal access to lucrative careers depends on it. However, a dedicated computer science course is not the answer for all (or even most) students. Math and science courses are prime territory for this task. Here are some ways my colleagues and I are making that happen. Have a question or want to contribute? Send me an email at adamlamee@gmail.com.  
-You may be surprised to see the [salaries and backgrounds of computer programmers in Cenrtal Florida](https://orlandodevs.com/blog/orlando-devs-salaries-2017), courtesy of [Orlando Devs](https://orlandodevs.com/).  
+You may be surprised to see the [salaries and backgrounds of computer programmers in Central Florida](https://orlandodevs.com/blog/orlando-devs-salaries-2017), courtesy of [Orlando Devs](https://orlandodevs.com/).  
 
 ## How we do it  
 Teachers have enough to cover without adding computer programming to the list. Our goal is to use computer programming as a tool to address science content - the coding is secondary. So you won't see loops and conditionals taught explicitly, but that allows non-CS-fluent teachers to use these activities with their classes in useful manner. You can find the source files on the [project's GitHub](https://github.com/adamlamee/CODINGinK12-notebooksB). These resources are free to use and modify, but not for resale. If you're a teacher using this with your own students, let us know how you're implementing it (because we're interested in that sort of thing). Others: see the project's GitHub for license information.  
