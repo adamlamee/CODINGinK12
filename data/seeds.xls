@@ -1,0 +1,187 @@
+sgsv_by_deposit_date_id	institute_code	deposit_date	depositor_name	institute_acronym	accessions	seeds	seed_boxes	taxa	species	genus	countries	continents
+679192	ARM035	2012-03-01	Armenian State Agrarian University, Laboratory of plant gene pool and breeding	LPGPB	175	87500	1	22	21	4	1	1
+679193	AUS006	2014-02-25	Australian Medicago Genetic Resources Centre, South Australian Research and Development Institute	SARDI	2926	1085800	3	57	43	1	65	6
+679194	AUS165	2011-02-16	Australian Grains Genebank	AGG	343	35438	1	2	2	2	6	1
+679195	AUS165	2014-02-25	Australian Grains Genebank	AGG	7143	721341	11	162	122	34	82	6
+679196	AUT001	2014-04-09	Austrian Agency for Health and Food Safety	AGES	1457	1394500	4	334	303	209	45	6
+679197	AZE015	2012-04-25	Genetic Resources Institute of the Azerbaijan National Academy of Sciences	AGRI	1522	648900	7	194	18	13	1	1
+679198	BDI003	2012-10-09	Agricultural Research Institute of Burundi	ISABU	365	314007	3	2	2	1	1	1
+679199	BDI003	2016-10-18	Agricultural Research Institute of Burundi	ISABU	74	1374540	1	13	13	13	1	1
+679200	BEN089	2008-02-26	Africa Rice Center	AfricaRice	2158	863200	4	3	3	1	56	4
+679201	BEN089	2008-09-29	Africa Rice Center	AfricaRice	3246	1298400	6	3	3	1	57	5
+679202	BEN089	2009-10-05	Africa Rice Center	AfricaRice	4535	1814000	8	5	5	2	53	5
+679203	BEN089	2010-11-11	Africa Rice Center	AfricaRice	2500	1000000	4	4	4	1	58	5
+679204	BEN089	2015-02-27	Africa Rice Center	AfricaRice	2400	960000	3	5	5	3	51	5
+679205	BGR001	2014-10-14	Institute for Plant Genetic Resources K. Malkov	IPGRBG	933	606420	5	50	29	13	1	1
+679206	BIH039	2016-10-18	Genetic Resources Institute, University of Banjaluka	GRIBL	326	163000	2	8	8	7	1	1
+679207	BRA008	2012-10-09	The Brazilian Agricultural Research Corporation	EMBRAPA	805	312153	6	2	2	2	15	5
+679208	BRA008	2014-02-25	The Brazilian Agricultural Research Corporation	EMBRAPA	514	51400	2	1	1	1	35	5
+679209	CAN004	2008-02-26	Plant Gene Resources of Canada	PGRC	5942	2971000	48	94	93	27	81	6
+679210	CAN004	2009-02-12	Plant Gene Resources of Canada	PGRC	3291	2805683	24	99	99	41	67	6
+679211	CAN004	2011-02-16	Plant Gene Resources of Canada	PGRC	11752	11102710	72	98	78	41	84	6
+679212	CAN004	2013-02-25	Plant Gene Resources of Canada	PGRC	4883	1464900	23	185	158	90	78	6
+679213	CHE001	2009-02-24	Station Fédérale de Recherches en Production Végétale de Changins	RAC	3845	930000	10	3	3	3	25	4
+679214	CHE001	2009-12-14	Station Fédérale de Recherches en Production Végétale de Changins	RAC	5820	1164000	13	4	4	4	56	6
+679215	CHL002	2012-10-09	Unidad de Recursos Genéticos -INIA La Platina	INIA	43	35557	1	1	1	1	1	1
+679216	COL003	2008-02-26	Centro Internacional de Agricultura Tropical	CIAT	30911	10895800	93	490	489	88	125	6
+679217	COL003	2009-02-24	Centro Internacional de Agricultura Tropical	CIAT	3200	1259400	10	169	169	44	84	6
+679218	COL003	2010-03-10	Centro Internacional de Agricultura Tropical	CIAT	3837	2041900	11	203	202	59	94	6
+679219	COL003	2011-02-16	Centro Internacional de Agricultura Tropical	CIAT	3600	1878900	9	250	250	61	94	6
+679220	COL003	2012-03-01	Centro Internacional de Agricultura Tropical	CIAT	1366	1322500	3	232	232	67	46	6
+679221	COL003	2012-04-25	Centro Internacional de Agricultura Tropical	CIAT	2334	233400	9	16	14	1	80	6
+679222	COL003	2012-10-09	Centro Internacional de Agricultura Tropical	CIAT	650	461500	2	115	115	38	40	6
+679223	COL003	2013-10-10	Centro Internacional de Agricultura Tropical	CIAT	2000	1495800	5	189	189	53	67	6
+679224	COL003	2014-10-14	Centro Internacional de Agricultura Tropical	CIAT	2374	1025250	7	191	189	49	77	6
+679225	COL003	2016-10-18	Centro Internacional de Agricultura Tropical	CIAT	4392	1691400	12	303	301	68	96	6
+679226	CRI001	2011-06-23	Centro Agronómico Tropical de Investigación y Enseñanza	CATIE	249	12450	3	21	21	9	11	4
+679227	CRI001	2012-03-01	Centro Agronómico Tropical de Investigación y Enseñanza	CATIE	202	10100	1	24	23	11	13	4
+679228	CRI001	2012-04-25	Centro Agronómico Tropical de Investigación y Enseñanza	CATIE	72	3600	1	8	8	5	6	2
+679229	CRI001	2012-10-09	Centro Agronómico Tropical de Investigación y Enseñanza	CATIE	200	10000	1	14	14	7	15	4
+679230	CRI092	2015-08-27	Universidad de Costa Rica	UCR-CIA	6	2800	1	6	6	1	1	1
+679231	CZE122	2015-09-21	Crop Research Institute	CRI	806	377900	3	84	82	40	23	2
+679232	DEU146	2008-02-26	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	2590	1295000	5	301	70	15	75	6
+679233	DEU146	2008-06-10	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	15081	7540500	25	1871	1248	408	112	6
+679234	DEU146	2009-06-17	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	4679		7	763	449	187	99	6
+679235	DEU146	2011-06-23	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	7611	3480568	12	1000	566	230	98	6
+679236	DEU146	2013-10-10	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	6573	3025590	9	1177	738	306	105	6
+679237	DEU146	2014-11-17	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	5878	2629061	9	1094	693	282	100	6
+679238	DEU146	2016-05-20	Leibniz Institute of Plant Genetics and Crop Plant Research	IPK	6241	2881730	11	1094	585	267	103	6
+679239	ECU076	2011-10-04	 Instituto Nacional Autónomo de Investigaciónes Agropecuarias	INIAP	168	42000	3	1	1	1	4	2
+679240	ETH013	2008-02-26	International Livestock Research Institute	ILRI	4007	2003500	6	515	506	112	92	6
+679241	ETH013	2011-02-16	International Livestock Research Institute	ILRI	1328	664000	2	259	258	66	68	6
+679242	FIN027	2015-02-27	Natural Resources Institute Finland	Luke	7	35000	1	2	2	2	1	1
+679243	FRA040	2016-06-23	National Institute for Agricultural Research	INRA	2	1400	1	1	1	1	1	1
+679244	GEO001	2010-03-10	I. Lamouri Research Institute of Farming	TAVTAVI	305	465437	3	84	19	7	1	1
+679245	GEO028	2012-10-09	Agricultural University of Georgia	AUG	120	6000	1	2	2	2	1	1
+679246	GRC035	2011-06-23	National Agricultural Research Foundation Greece	NAGREF	25	23750	1	1	1	1	1	1
+679247	IDN179	2011-06-23	Indonesian Center for Agricultural Biotechnology and Genetic Resources Research and Biotechnology	ICABIOGRAD	1050	518635	5	2	2	2	1	1
+679248	IND001	2014-04-09	National Bureau of Plant Genetic Resources India	NBPGR	25	12500	1	1	1	1	1	1
+679249	IND002	2008-09-29	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	20000	91532345	61	7	7	7	85	6
+679250	IND002	2009-12-14	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	23000	35126294	69	7	7	6	110	6
+679251	IND002	2010-11-11	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	23000	40456714	54	8	8	7	112	6
+679252	IND002	2011-10-04	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	20600	24218471	51	11	11	10	111	6
+679253	IND002	2012-10-09	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	11200	22066234	36	11	11	10	106	6
+679254	IND002	2013-10-10	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	6200	7185729	16	10	10	9	91	6
+679255	IND002	2014-10-14	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	4352	5749985	7	5	5	5	92	6
+679256	IND002	2015-10-20	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	1662	1017043	3	11	11	10	76	6
+679257	IND002	2016-10-18	International Crop Research Institute for the Semi-Arid Tropics	ICRISAT	804	2263704	3	4	4	4	62	5
+679258	IRL001	2009-02-24	Oak Park Research Centre	AFT	577	612190	1	7	7	6	1	1
+679259	IRL029	2009-02-24	Department of Agriculture, Food and Rural Development	DAFF	100	50000	1	4	4	3	4	4
+679260	ISR003	2010-11-11	Institute of Creal Crop Improvement, Tel Aviv University	ICCI	450	22500	1	2	2	2	2	1
+679261	ISR003	2011-06-23	Institute of Creal Crop Improvement, Tel Aviv University	ICCI	450	22500	1	2	2	2	1	1
+679262	ITA411	2011-10-04	Lombardy Seed Bank, Botanical Garden, University of Pavia	LSB	2	2000	1	1	1	1	1	1
+679263	JPN009	2014-02-25	Barley and Wild Plant Resources Center, National University Corporation Okayama University	BWPRC	575	172000	1	1	1	1	4	1
+679264	JPN009	2016-03-01	Barley and Wild Plant Resources Center, National University Corporation Okayama University	BWPRC	3094	928200	5	1	1	1	6	2
+679265	JPN009	2016-10-18	Barley and Wild Plant Resources Center, National University Corporation Okayama University	BWPRC	1599	479700	3	1	1	1	43	6
+679266	KEN015	2008-02-26	National Genebank of Kenya	NGBK	558	274283	1	4	4	3	1	1
+679267	KEN015	2009-06-17	National Genebank of Kenya	NGBK	756	370695	2	4	4	4	9	1
+679268	KEN023	2008-02-26	World Agroforestry Centre	ICRAF	102	53500	2	97	92	49	17	4
+679269	KEN023	2008-09-29	World Agroforestry Centre	ICRAF	406	358500	2	52	46	23	24	5
+679270	KEN023	2011-10-04	World Agroforestry Centre	ICRAF	269	134500	2	112	107	75	19	5
+679271	KOR043	2008-06-10	National Agrobiodiversity Center	NAC	5185	1904500	24	7	7	6	1	1
+679272	KOR043	2008-09-29	National Agrobiodiversity Center	NAC	8000	4000000	24	30	26	21	1	1
+679273	MEX002	2008-02-26	Centro Internacional de Mejoramiento de Maíz y Trigo	CIMMYT	57721	17173390	162	5	5	4	56	5
+679274	MEX002	2009-02-24	Centro Internacional de Mejoramiento de Maíz y Trigo	CIMMYT	22771	6301489	40	11	6	4	38	5
+679275	MEX002	2010-03-10	Centro Internacional de Mejoramiento de Maíz y Trigo	CIMMYT	15471	3867750	16	4	4	3	1	1
+679276	MEX002	2011-10-04	Centro Internacional de Mejoramiento de Maíz y Trigo	CIMMYT	27094	9479436	153	4	4	3	61	6
+679277	MEX002	2014-02-25	Centro Internacional de Mejoramiento de Maíz y Trigo	CIMMYT	7234	2273812	34	10	7	5	79	6
+679278	MLI002	2012-10-09	Institut d'Economie Rurale	IER	158	79000	1	2	2	2	1	1
+679279	MMR003	2011-04-26	Biotechnology, Plant Genetic Resources and Plant Protection Division	MPGRPPD	718	21192	3	17	17	2	1	1
+679280	MNG030	2012-10-09	Plant Science Agricultural Research and Training Institute	PSARTI	160	189000	1	65	35	8	1	1
+679281	NGA010	2011-10-04	Nigeria National Centre for Genetic Resources and Biotechnology	NACGRAB	401	386531	2	3	3	3	1	1
+679282	NGA010	2012-10-09	Nigeria National Centre for Genetic Resources and Biotechnology	NACGRAB	399	199500	2	3	3	3	1	1
+679283	NGA057	2008-02-26	International Institute of Tropical Agriculture	IITA	6513	1618050	21	31	29	3	88	6
+679284	NGA057	2009-06-17	International Institute of Tropical Agriculture	IITA	4901	1240150	16	45	43	3	81	6
+679285	NGA057	2011-06-23	International Institute of Tropical Agriculture	IITA	2017	364633	7	4	4	3	55	5
+679286	NGA057	2012-10-09	International Institute of Tropical Agriculture	IITA	3045	911430	9	26	26	2	56	6
+679287	NGA057	2013-11-21	International Institute of Tropical Agriculture	IITA	2337	600350	6	1	1	1	40	6
+679288	NGA057	2015-10-20	International Institute of Tropical Agriculture	IITA	1376	376794	8	4	4	3	44	6
+679289	NGA057	2016-10-18	International Institute of Tropical Agriculture	IITA	549	182350	3	8	5	5	30	3
+679290	NLD037	2008-02-26	Centre for Genetic Resources	CGN	18212	7386550	37	224	224	31	147	7
+679291	NLD037	2013-02-25	Centre for Genetic Resources	CGN	430	131300	1	74	43	16	43	5
+679292	NLD037	2015-10-20	Centre for Genetic Resources	CGN	1071	150400	1	106	90	18	85	6
+679293	NOR056	2015-02-27	The Norwegian Forest Seed Centre	NFSC	208	104000	1	2	2	2	1	1
+679294	NZL001	2016-05-20	Margot Forde Forage Germplasm Centre, AgResearch Ltd	AGRESEARCH	726	1786130	1	92	84	37	18	5
+679295	PAK001	2008-02-26	Plant Genetic Resources Institute, National Agricultural Research Centre	PGRI-NARC	480	240000	1	8	8	5	1	1
+679296	PAK001	2009-06-17	Plant Genetic Resources Institute, National Agricultural Research Centre	PGRI-NARC	1117	558500	1	11	11	5	1	1
+679297	PAK001	2012-10-09	Plant Genetic Resources Institute, National Agricultural Research Centre	PGRI-NARC	1277	156380	1	6	6	4	1	1
+679298	PER001	2008-02-26	Centro Internacional de la Papa	CIP	5847	448150	3	188	171	2	23	5
+679299	PER001	2010-03-10	Centro Internacional de la Papa	CIP	978	137190	1	115	102	2	9	2
+679300	PER001	2014-02-25	Centro Internacional de la Papa	CIP	256	38575	1	87	77	2	12	2
+679301	PER001	2015-10-20	Centro Internacional de la Papa	CIP	559	100325	1	133	100	5	16	3
+679302	PER001	2016-10-18	Centro Internacional de la Papa	CIP	579	107400	1	111	96	3	15	2
+679303	PER002	2011-02-16	Universidad Nacional Agraria La Molina	UNALM	376	188000	7	1	1	1	1	1
+679304	PER002	2011-04-26	Universidad Nacional Agraria La Molina	UNALM	320	160000	5	1	1	1	1	1
+679305	PER002	2011-06-23	Universidad Nacional Agraria La Molina	UNALM	91	45500	1	1	1	1	1	1
+679306	PER002	2012-04-25	Universidad Nacional Agraria La Molina	UNALM	245	122500	3	1	1	1	1	1
+679307	PER002	2012-10-09	Universidad Nacional Agraria La Molina	UNALM	264	132000	2	1	1	1	1	1
+679308	PER862	2015-08-27	Parque de la Papa	PdeP	750	62400	1	6	5	1	1	1
+679309	PHL001	2008-02-26	International Rice Research Institute	IRRI	70180	35577567	98	50	48	6	122	6
+679310	PHL001	2010-11-11	International Rice Research Institute	IRRI	42627	20492693	69	38	27	5	114	6
+679311	PHL001	2012-10-09	International Rice Research Institute	IRRI	3861	2284126	7	16	13	1	67	6
+679312	PHL001	2015-10-20	International Rice Research Institute	IRRI	5392	3207763	8	7	7	1	48	6
+679313	PHL129	2008-02-26	National Plant Genetic Resources Laboratory	NPGRL	500	94932	1	4	4	3	16	5
+679314	PHL129	2012-10-09	National Plant Genetic Resources Laboratory	NPGRL	1754	779894	7	8	7	4	1	1
+679315	PRK013	2010-11-11	Pyongyang AAS	AAS	2857	1428500	9	2	2	2	1	1
+679316	PRK013	2011-06-23	Pyongyang AAS	AAS	2843	1421500	8	2	2	2	1	1
+679317	PRT005	2012-04-25	Instituto Nacional de Recursos Biológicos	INRB	12	1200	1	1	1	1	1	1
+679318	RUS001	2008-03-18	N.I. Vavilov All-Russian Scientific Research Institute of Plant Industry	VIR	945	797196	13	111	55	12	69	6
+679319	RUS001	2011-06-23	N.I. Vavilov All-Russian Scientific Research Institute of Plant Industry	VIR	2218	2056656	31	103	15	10	76	5
+679320	RUS001	2011-12-07	N.I. Vavilov All-Russian Scientific Research Institute of Plant Industry	VIR	1021	908540	8	56	8	5	49	6
+679321	RUS001	2012-10-09	N.I. Vavilov All-Russian Scientific Research Institute of Plant Industry	VIR	1094	915800	7	155	47	8	69	6
+679322	SDN034	2010-11-11	Agricultural Research Corporation, Wad Medani	ARC	1195	945800	2	4	4	3	1	1
+679323	SGP008	2016-10-18	Temasek Life Sciences Laboratory Limited	TLL	7	3500	1	2	1	1	1	1
+679324	SWE054	2008-02-26	Nordic Genetic Resource Center	NORDGEN	12698	6243652	29	289	225	84	74	6
+679325	SWE054	2010-11-11	Nordic Genetic Resource Center	NORDGEN	668	331800	1	93	87	68	20	6
+679326	SWE054	2011-12-07	Nordic Genetic Resource Center	NORDGEN	1031	515500	2	78	69	51	15	5
+679327	SWE054	2013-02-25	Nordic Genetic Resource Center	NORDGEN	868	429500	2	51	46	36	12	5
+679328	SWE054	2015-02-27	Nordic Genetic Resource Center	NORDGEN	1969	909950	4	107	96	71	22	6
+679329	SWE054	2015-04-21	Nordic Genetic Resource Center	NORDGEN	340	170000	1	75	63	41	22	6
+679330	SWE054	2016-01-08	Nordic Genetic Resource Center	NORDGEN	2013	1006500	4	73	60	41	19	6
+679331	SWE054	2016-10-18	Nordic Genetic Resource Center	NORDGEN	1536	693050	3	97	83	53	34	6
+679332	SYR002	2008-02-26	International Centre for Agricultural Research in Dry Areas	ICARDA	30567	16192519	91	193	138	28	112	6
+679333	SYR002	2009-02-24	International Centre for Agricultural Research in Dry Areas	ICARDA	32267	18307533	93	268	175	11	101	6
+679334	SYR002	2009-12-14	International Centre for Agricultural Research in Dry Areas	ICARDA	31520	14870625	68	371	279	29	107	6
+679335	SYR002	2011-02-16	International Centre for Agricultural Research in Dry Areas	ICARDA	7760	5075353	21	48	33	4	88	6
+679336	SYR002	2012-03-01	International Centre for Agricultural Research in Dry Areas	ICARDA	8567	1032900	32	135	101	25	94	6
+679337	SYR002	2013-11-21	International Centre for Agricultural Research in Dry Areas	ICARDA	3229	1614500	10	16	9	3	34	4
+679338	SYR002	2014-02-25	International Centre for Agricultural Research in Dry Areas	ICARDA	2574	1287000	10	114	90	6	72	6
+679339	THA012	2013-10-10	National Rice Seed Storage Laboratory for Genetic Resources	NRSSL	81	39850	1	1	1	1	1	1
+679340	THA214	2013-05-29	Chai Nat Field Crops Research Center	CN FCRC	150	75000	1	3	2	1	1	1
+679341	THA513	2016-05-20	The Chaipattana Foundation	CHAIPAT	20	10000	1	17	17	14	1	1
+679342	TJK027	2012-03-01	Republican National Genetic Resource Center	NRCGR	1646	823000	4	2	2	2	1	1
+679343	TWN001	2008-02-26	The World Vegetable Center	AVRDC	7350	3619300	22	73	54	12	90	6
+679344	TWN001	2009-10-05	The World Vegetable Center	AVRDC	1752	710300	6	55	50	13	59	6
+679345	TWN001	2010-11-11	The World Vegetable Center	AVRDC	1925	616100	5	33	28	6	53	6
+679346	TWN001	2012-10-09	The World Vegetable Center	AVRDC	1742	685000	4	71	60	16	70	6
+679347	TWN001	2014-10-14	The World Vegetable Center	AVRDC	1642	683700	4	70	62	19	76	6
+679348	TWN001	2016-05-20	The World Vegetable Center	AVRDC	1207	482800	4	65	56	23	54	6
+679349	TWN006	2009-04-17	Taiwan Agricultural Research Institute	TARI	4018	2008600	6	1	1	1	1	1
+679350	TWN006	2010-05-03	Taiwan Agricultural Research Institute	TARI	3260	652000	8	1	1	1	1	1
+679351	TWN006	2011-04-26	Taiwan Agricultural Research Institute	TARI	3225	491000	11	13	13	10	1	1
+679352	UGA031	2010-03-10	National Agricultural Research Organization	NARO	262	4244024	1	1	1	1	2	2
+679353	UGA031	2011-10-04	National Agricultural Research Organization	NARO	515	4750599	2	13	13	4	2	2
+679354	UKR001	2009-04-17	Institute of Plant Production n.a. V.Y. Yurjev of UAAS	UAAS	885	442500	6	36	7	5	31	5
+679355	UKR001	2010-11-11	Institute of Plant Production n.a. V.Y. Yurjev of UAAS	UAAS	808	404000	4	8	7	5	28	4
+679356	UKR001	2011-06-23	Institute of Plant Production n.a. V.Y. Yurjev of UAAS	UAAS	826	11500	6	4	4	4	27	5
+679357	UKR001	2012-10-09	Institute of Plant Production n.a. V.Y. Yurjev of UAAS	UAAS	263	86433	2	1	1	1	1	1
+679358	USA971	2011-02-16	Desert Legume Program	DELEP	74	22100	1	64	64	26	9	5
+679359	USA971	2012-10-09	Desert Legume Program	DELEP	60	23200	1	40	35	17	10	5
+679360	USA974	2008-02-26	Seed Savers Exchange	SSE	485	343297	2	27	27	15	44	6
+679361	USA974	2009-04-17	Seed Savers Exchange	SSE	468	187700	2	34	34	19	47	6
+679362	USA974	2010-03-10	Seed Savers Exchange	SSE	436	94099	1	17	17	10	50	6
+679363	USA974	2011-04-26	Seed Savers Exchange	SSE	271	361081	1	18	18	10	27	5
+679364	USA974	2012-03-01	Seed Savers Exchange	SSE	213	487880	1	23	23	14	24	4
+679365	USA974	2013-02-25	Seed Savers Exchange	SSE	366	676502	2	37	36	23	1	1
+679366	USA974	2014-02-25	Seed Savers Exchange	SSE	169	161038	1	30	30	21	1	1
+679367	USA974	2015-02-27	Seed Savers Exchange	SSE	244	421916	1	36	36	24	1	1
+679368	USA974	2016-03-01	Seed Savers Exchange	SSE	435	627587	2	47	47	27	1	1
+679369	USA996	2008-02-26	National Plant Germplasm System	NPGS	10865	4985100	33	572	520	125	116	6
+679370	USA996	2009-02-24	National Plant Germplasm System	NPGS	20003	2932620	66	468	399	132	144	6
+679371	USA996	2010-03-10	National Plant Germplasm System	NPGS	10522	1117600	30	324	297	123	141	6
+679372	USA996	2011-02-16	National Plant Germplasm System	NPGS	15116	7812681	38	441	384	107	144	6
+679373	USA996	2012-03-01	National Plant Germplasm System	NPGS	12801	6400500	25	166	143	63	135	6
+679374	USA996	2015-02-27	National Plant Germplasm System	NPGS	19340	9670000	58	650	591	208	149	6
+679375	USA996	2016-09-22	National Plant Germplasm System	NPGS	19375	6312071	53	446	369	132	147	6
+679376	UZB006	2013-05-29	Uzbek Research Institute of Plant Industry	UzRIPI	2038	1141300	6	191	16	4	68	6
+679377	ZMB030	2012-04-25	SADC Plant Genetic Resources Centre	SPGRC	1463	731500	8	8	8	7	10	1
