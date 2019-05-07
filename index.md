@@ -4,26 +4,26 @@
 Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
 
 ### Start here
-- [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
+- [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
 
 ### EarthSpace Science
-- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/quakes.ipynb) uncovers plate techtonics using seismic data.
-- [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
-- [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
-- [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
+- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate techtonics using seismic data.
+- [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
+- [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
+- [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
 
 ### Physical Science
-- [Motion](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/motion.ipynb) plots position vs. time data and fits a trendline; can be used with student-collected data.
-- Motion graph matching of [position](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/matching-position-graphs.ipynb) or [velocity](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/matching-velocity-graphs.ipynb) to model motion and practice relating algebraic equations with the graphs they represent.
-- [Elements](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/elements.ipynb) looks for trends in the peridodic table.
-- [Muon Invariant Mass](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/invariant_mass.ipynb) let's you practice doing math (and the Pythagorean theorem) while you learn some basic of relativistic kinematics with data from CERN's LHC.
-- [CMS Event Analysis](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/leptonic_decays.ipynb) applies conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
+- [Motion](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/motion.ipynb) plots position vs. time data and fits a trendline; can be used with student-collected data.
+- Motion graph matching of [position](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb) or [velocity](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) to model motion and practice relating algebraic equations with the graphs they represent.
+- [Elements](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) looks for trends in the peridodic table.
+- [Muon Invariant Mass](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant_mass.ipynb) let's you practice doing math (and the Pythagorean theorem) while you learn some basic of relativistic kinematics with data from CERN's LHC.
+- [CMS Event Analysis](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic_decays.ipynb) applies conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
 
 ### OCPS 7th Grade (in development)
-- [Genes](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/genes.ipynb) predicts genotypes of offspring with a Punnett square.
-- [Heat](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/heat.ipynb) investigates the relationship between heat and temperature.
-- [Populations](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/populations.ipynb) plot and interpret data on manatee population over time.
-- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/notebooks/blob/master/quakes.ipynb) uncovers plate techtonics using seismic data.
+- [Genes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/genes.ipynb) predicts genotypes of offspring with a Punnett square.
+- [Heat](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/heat.ipynb) investigates the relationship between heat and temperature.
+- [Populations](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/populations.ipynb) plot and interpret data on manatee population over time.
+- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate techtonics using seismic data.
 
 ## Do students need to learn how to code?  
 There's increasing momentum for coding in schools and that's a good thing. Every student should be exposed to computer programming -- equal access to lucrative careers depends on it. However, a dedicated computer science course is not the answer for all (or even most) students. Math and science courses are prime territory for this task. Here are some ways my colleagues and I are making that happen. Have a question or want to contribute? Send me an email at adamlamee@gmail.com.  
