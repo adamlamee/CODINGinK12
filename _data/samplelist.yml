@@ -1,0 +1,11 @@
+docs_list_title: Navigation
+docs:
+
+- title: One
+  url: page1.md
+
+- title: Two
+  url: page2.md
+
+- title: Three
+  url: page3.md
