@@ -1,0 +1,76 @@
+Organism,fur,marine,terrestrial,kingdom,feathers,scales,fins,carnivore,herbivore,omnivore,vertebrate,eggs,live young,photosynthesis,multicellular,wings,2 legs,4 or more legs,no legs,autotroph,poisonous,cold blooded,Eukaryotic,Prokaryotic,decomposer,hooves,long tail,domesticated
+badger,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+bat,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+bear,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+beaver,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+bee,no,no,yes,animalia,no,no,no,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+black widow,no,no,yes,animalia,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no
+bobcat,yes,no,yes,animalia,no,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+butterfly,no,no,yes,animalia,no,no,no,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+cat,yes,no,yes,animalia,no,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,yes
+chicken,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes
+chimpanzee,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no
+chipmunk,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+clownfish,no,yes,no,animalia,no,yes,yes,no,no,yes,yes,yes,no,no,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes
+cow,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,yes,yes
+crocodile,no,no,yes,animalia,no,no,no,yes,no,no,yes,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no
+death cap,no,no,yes,fungi,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,no,no,no
+deer,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no
+dog,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,yes
+dolphin,no,yes,no,animalia,no,no,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,no
+dragonfly,no,no,yes,animalia,no,no,no,yes,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,yes,no
+duck,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes
+eagle,no,no,yes,animalia,yes,no,no,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+flamingo,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+flea,no,no,yes,animalia,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,no
+fly,no,no,yes,animalia,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+fox,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+giraffe,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no
+goose,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes
+hamster,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+hippopotamus,no,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no
+kangaroo,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no
+lemur,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+lizard,no,no,yes,animalia,no,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes
+mold,no,no,yes,fungi,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no
+mosquito,no,no,yes,animalia,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+moss,no,no,yes,plantae,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no
+moth,no,no,yes,animalia,no,no,no,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+mouse,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,yes
+oak tree,no,no,yes,plantae,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no
+opossum,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+otter,yes,yes,no,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+owl,no,no,yes,animalia,yes,no,no,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+palm tree,no,no,yes,plantae,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no
+panda,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+penguin,no,no,yes,animalia,yes,no,no,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,no,no,no,no
+pig,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes
+pine tree,no,no,yes,plantae,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no
+poison ivy,no,no,yes,plantae,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,no,no
+porcupine,no,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+rabbit,yes,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+raccoon,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+rattlesnake,no,no,yes,animalia,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,yes,no
+red panda,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+rhinoceros,no,no,yes,animalia,no,no,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no
+salamander,no,no,yes,animalia,no,no,no,yes,no,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,no
+scorpion,no,no,yes,animalia,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,no
+seal,no,no,yes,animalia,no,no,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,no
+shark,no,yes,no,animalia,no,no,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,yes,no,no,no,yes,no
+skunk,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+sloth,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+snail,no,no,yes,animalia,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,no
+squirrel,yes,no,yes,animalia,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+tree frog,no,no,yes,animalia,no,no,no,yes,no,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no
+tucan,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+turkey,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,yes,yes
+turtle,no,no,yes,animalia,no,no,no,no,no,yes,yes,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes
+vulture,no,no,yes,animalia,yes,no,no,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,yes,no
+wasp,no,no,yes,animalia,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,yes,no,no,no,no,no
+weasel,no,no,yes,animalia,no,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no
+whale,no,yes,no,animalia,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,no
+white mushroom,no,no,yes,fungi,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,yes,no,no,no
+wolf,yes,no,yes,animalia,no,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no
+woodpecker,no,no,yes,animalia,yes,no,no,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no
+worm,no,no,yes,animalia,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,no,no,yes,yes,no,no,no,yes,no
+yeast,no,no,yes,fungi,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no
