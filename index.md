@@ -1,11 +1,3 @@
-<nav>
-   <ul>
-      <li><a href="/page1.md">Page 1</a></li>
-      <li><a href="/page2.md">Page 2</a></li>
-      <li><a href="/page3.md">Page 3</a></li>
-   </ul>
-</nav>
-
 # Coding Activities  
 Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
 
