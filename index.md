@@ -1,7 +1,7 @@
 ---
 title:  
 ---
-# CODINGinK12.org project goals  
+# Project Goals  
 - develop instructional resources to bridge the gap between drag-and-drop, game-like coding (see the wonderful stuff on [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach writing programs from a blank terminal  
 - give meaningful exposure to software and programming languages students can continue to build upon through college or career  
 - increase equity and access to computer science by reaching a majorty of a district's students with activities designed for core courses that first and foremost teach topics identified by the teachers who lead those courses  
