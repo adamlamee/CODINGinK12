@@ -1,6 +1,12 @@
 ---
 title:  
 ---
+# CODINGinK12.org project goals  
+- develop instructional resources to bridge the gap between drag-and-drop, game-like coding (see the wonderful stuff on [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach writing programs from a blank terminal  
+- give meaningful exposure to software and programming languages students can continue to build upon through college or career  
+- increase equity and access to computer science by reaching a majorty of a district's students with activities designed for core courses that first and foremost teach topics identified by the teachers who lead those courses  
+- broaden adoption with a focus on reducing implementation challenges by using free software and fully-editable activities designed for teachers with no prior coding experience.  
+
 # Coding Activities  
 Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
 
