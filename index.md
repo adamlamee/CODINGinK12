@@ -4,13 +4,15 @@ title:
 If you like what you see here, check out my other work at [adamlamee.com](http://www.adamlamee.com).  
 
 # Project Goals  
-- develop instructional resources to bridge the gap between drag-and-drop, game-like coding (see the wonderful stuff on [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach writing programs from a blank terminal  
-- give meaningful exposure to software and programming languages students can continue to build upon through college or career  
-- increase equity and access to computer science by reaching a majorty of a district's students with activities designed for core courses that first and foremost teach topics identified by the teachers who lead those courses  
-- broaden adoption with a focus on reducing implementation challenges by using free software and fully-editable activities designed for teachers with no prior coding experience.  
+- develop instructional resources to **bridge the gap** between drag-and-drop, game-like coding (see the wonderful stuff on [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach writing programs from a blank terminal  
+- give meaningful exposure to software and programming languages **used by professionals** so students can continue to build upon their experiences through college or career  
+- **increase equity and access** to computer science by reaching a majorty of a district's students with activities designed for core courses that first and foremost teach topics identified by the teachers who lead those courses  
+- broaden adoption with a focus on making it **easier to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience.  
 
 # Coding Activities  
-Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
+Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12).  
+
+*Note*: When running an activity for th efirst time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Just click "okay" or "run anway".  
 
 - [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
 
