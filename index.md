@@ -12,7 +12,9 @@ If you like what you see here, check out my other work at [adamlamee.com](http:/
 # Coding Activities  
 Our coding activities cover a range of science topics, some computer science basics, and even some non-STEM analyses. They intentionally don't have much extra formatting, answer keys, or explanatory text. They work well for teachers learning about scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12).  
 
-*Note*: When running an activity for th efirst time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Just click "okay" or "run anway".  
+*Note*:  
+- You'll need to be logged in to a Google account.
+- When running an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Just click "okay" or "run anway".  
 
 - [Intro to Jupyter](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Intro_to_Jupyter.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
 
