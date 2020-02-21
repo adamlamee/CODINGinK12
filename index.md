@@ -49,8 +49,6 @@ The resources you'll find here were developed by middle grades science teachers,
 
 Use the activities linked below, write your own, or let us work with your team. We can also help you develop an implementation plan that suits your site's needs and resources. My colleagues and I conduct teacher workshops and district-wide professional development on coding, physical science content, reformed pedagogy, and digital literacy. These resources are free to use and modify (with credit), but not for resale. If you're a teacher using this with your own students, let us know how you're implementing it (because we're interested in that sort of thing). All others: see the license [here](https://github.com/adamlamee/CODINGinK12) and kick an email this way.  
 
----  
-
 # More resources  
 - [Presentation](https://drive.google.com/open?id=0B5OQDGmunCOMU0wtZk1BOFIyWjg) from the FL Assoc of Science Supervisors.  
 - Modified activities used by [Orange County](https://github.com/ocps-codes) and by [Seminole County](https://github.com/SCPSscience) schools.
