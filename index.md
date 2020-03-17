@@ -19,11 +19,8 @@ You'll need to be logged in to a Google account. When you run an activity for th
 - [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
 - [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
-- [Water Supply](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/water_supply.ipynb) looks at relationships between fresh water supply and usage across Florida.
-- [Rainfall (in works)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/rainfall.ipynb) compares monthly changes in rainfall to lake water levels.
 
 ## Physical Science
-- [Motion](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/motion.ipynb) plots position vs. time data and fits a trendline; can be used with student-collected data.
 - Motion graph matching of [position](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb) or [velocity](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) to model motion and practice relating algebraic equations with the graphs they represent.
 - [Elements](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) looks for trends in the periodic table.
 - [Invariant Mass](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb) let's you practice doing math (and the Pythagorean theorem) while you learn some basic of relativistic kinematics with data from CERN's LHC.
