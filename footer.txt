@@ -1,0 +1,10 @@
+---  
+## Saving Your Work  
+This is running on a Google server on a distant planet and deletes what you've done when you close this tab. To save your work for later use or analysis you have a few options:  
+- File > "Save a copy in Drive" will save it to you Google Drive in a folder called "Collaboratory". You can run it later from there.  
+- File > "Download .ipynb" to save to your computer (and run with Jupyter software later)  
+- File > Print to ... um ... print.  
+- To save an image of a graph or chart, right-click on it and select Save Image as ...  
+
+## Credits
+This notebook was designed by [Adam LaMee](https://adamlamee.github.io/). Thanks to the great folks at [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) for making this notebook interactive without you needing to download it or install [Jupyter](https://jupyter.org/) on your own device. Find more activities and license info at [CODINGinK12.org](http://www.codingink12.org).
