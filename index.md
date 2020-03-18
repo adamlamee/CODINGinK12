@@ -9,7 +9,7 @@ title: CODING in K12
 - **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience.  
 
 # Coding Activities  
-You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Just click "run anway".  
+You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Click "run anway".  
 
 ## Start here
 - [Intro to Coding](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
@@ -45,5 +45,5 @@ Use the activities linked above, write your own, or let us work with your team. 
 - [CERN Open Data](http://opendata.cern.ch/?ln=en) includes educational resources on particle physics and offers students (and the general public) the opportunity to access and analyze authentic data for the Large Hardon Collider. Yeah, it's pretty cool.  
 - [Particle Physics Playground](http://particle-physics-playground.github.io/), by Matt Bellis, provides Jupyter notebook exercises with particle detector data from CMS and CLEO.  
 - [Shawn Weatherford's](http://www.phys.ufl.edu/~sweatherford/) work on vPython and Glowscript.  
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CODINGinK12.org activities</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.CODINGinK12.org" property="cc:attributionName" rel="cc:attributionURL">Adam LaMee</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+- [Let's Code Physics YouTube channel](https://www.youtube.com/channel/UCWBTKIyw-zX-2k63cB6qciQ)  
+- [STEM Coding](https://u.osu.edu/stemcoding/)  
