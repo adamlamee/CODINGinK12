@@ -51,4 +51,5 @@ Use the activities linked above, write your own, or let us work with your team. 
 # Trying out badges  
 *in works*  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
-- <a href="https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb>"><img src="https://notebooks.azure.com/launch.png" /></a>
+- <a href="https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb"><img src="https://notebooks.azure.com/launch.png" /></a>  
+- [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
