@@ -6,7 +6,7 @@ title: CODING in K12
 - **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
 - **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
-- **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience.  
+- **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience to experienced coders looking to customize.  
 
 # Coding Activities  
 You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Click "run anway".  
@@ -51,5 +51,4 @@ Use the activities linked above, write your own, or let us work with your team. 
 # Trying out badges  
 *in works*  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
-- <a href="https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb"><img src="https://notebooks.azure.com/launch.png" /></a>  
 - [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
