@@ -3,7 +3,7 @@ title: CODING in K12
 ---
 
 # Project Goals  
-- **bridge the gap** between drag-and-drop coding games (see the wonderful stuff on [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
+- **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
 - **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
 - **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience.  
@@ -52,4 +52,4 @@ Use the activities linked above, write your own, or let us work with your team. 
 *in works*  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
 - <a href="https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb"><img src="https://notebooks.azure.com/launch.png" /></a>  
-- [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
+- [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
