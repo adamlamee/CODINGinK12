@@ -12,7 +12,7 @@ title: CODING in K12
 You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Click "run anway".  
 
 ## Start here
-- [Intro to Coding](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.
+- [Intro to Coding](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.  
 
 ## Earth & Space Science
 - [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
@@ -47,3 +47,8 @@ Use the activities linked above, write your own, or let us work with your team. 
 - [Shawn Weatherford's](http://www.phys.ufl.edu/~sweatherford/) work on vPython and Glowscript.  
 - [Let's Code Physics YouTube channel](https://www.youtube.com/channel/UCWBTKIyw-zX-2k63cB6qciQ)  
 - [STEM Coding](https://u.osu.edu/stemcoding/)  
+
+# Trying out badges  
+*in works*  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
+- <a href="https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb>"><img src="https://notebooks.azure.com/launch.png" /></a>
