@@ -9,7 +9,7 @@ You'll need to be logged in to a Google account. When you run an activity for th
 - [Intro to Coding](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.  
 
 ## Earth & Space Science
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)[ipynb](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/quakes.ipynb) *Quakes* (https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) ([ipynb](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/quakes.ipynb)) *Quakes* uncovers plate tectonics using seismic data.
 - [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
 - [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
