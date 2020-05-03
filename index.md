@@ -36,6 +36,6 @@ Find instructions on the [implementing](./implementing) page.
   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) **Matching Velocity Graphs** models motion and practices relating algebraic equations with the graphs they represent.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb) **Invariant Mass** let's you practice doing math (and the Pythagorean theorem) while you learn some basic of relativistic kinematics with data from CERN's LHC.  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb) **Invariant Mass** let's you practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb) **Leptonic Decays @ CMS** applies conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
