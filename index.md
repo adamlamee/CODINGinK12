@@ -8,13 +8,13 @@ title: CODING in K12
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. 
 
 ## Running a coding activity  
-### With a *Google* login  
+With a *Google* login:  
 Next to any activity below, click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open it in Google Colab. You'll see a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
   
-### With a *Microsoft* login  
+With a *Microsoft* login:  
 Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities to your cloud storage on Azure. As of May 2020 Azure doesn't support copying anything but the whole set of activities and data. If that changes, I'll update this page.  
   
-### With Jupyter software installed
+With Jupyter software installed:
 Right-click on (.ipynb) next to any activity to save it to your computer. Then, use [Jupyter](https://jupyter.org/) to open it. Find instructions on the [implementing](./implementing) page.  
   
 ## Start here  
