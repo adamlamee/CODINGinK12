@@ -7,7 +7,7 @@ title: CODING in K12
 
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has pedagogy and implementation guides to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why thing this is so important.  
 
-## How to Run a Coding Activity  
+## How to Run an Activity  
 **With a Google login**  
 Next to any activity below, click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open it in Google Colab. You'll see a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
   
