@@ -8,7 +8,7 @@ title: CODING in K12
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. 
 
 ## Running a coding activity  
-With a *Google* login:  
+__**With a *Google* login**__  
 Next to any activity below, click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open it in Google Colab. You'll see a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
   
 With a *Microsoft* login:  
