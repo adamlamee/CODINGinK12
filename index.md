@@ -10,7 +10,9 @@ You'll need to be logged in to a Google account. When you run an activity for th
 
 ## Earth & Space Science
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)   **Quakes**:  uncovers plate tectonics using seismic data. ([download](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/quakes.ipynb))  
+  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) [Global Temperatures](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/global-temp.ipynb): examines the effect of water on global climate using data from 1880-present. ([download](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/global-temp.ipynb))  
+  
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
 - [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
 
