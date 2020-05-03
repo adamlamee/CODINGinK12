@@ -2,7 +2,7 @@
 title: CODING in K12  
 ---
 
-*May 3 & 4: I'm tinkering with the site layout and updating content. If something looks funny or you can't find what yo're looking for, drop an email to adamlamee@gmail.com.*  
+*May 3 & 4: I'm tinkering with the site layout and updating content. If something looks funny or you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
 *Thanks, Adam*
 
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has pedagogy and implementation guides to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why thing this is so important.  
@@ -18,7 +18,8 @@ Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)
 Find instructions on the [implementing](./implementing) page.  
   
 ## Start here  
-**Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.  
+**Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
+It's a 5-minute guide on how to use our activities. If you've never programmed before, this is a great place to start.  
   
 ## Earth & Space Science  
 **Quakes** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)  
@@ -34,17 +35,17 @@ Use a huuuuuge star catalogue to look for patterns in brightness and temperature
 Analyze 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.  
 
 ## Physics & Physical Science  
-**Elements** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
+#### Elements [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
 Look for trends in the periodic table.  
   
-**Matching Position Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb)  
+#### Matching Position Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb)  
 Model 1D motion and practice relating algebraic equations with the *position* graphs they represent.  
   
-**Matching Velocity Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb)  
+#### Matching Velocity Graphs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb)  
 Model 1D motion and practice relating algebraic equations with the *velocity* graphs they represent.  
   
-**Invariant Mass** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb)  
+#### Invariant Mass [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb)  
 Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
   
-**Leptonic Decays @ CMS** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb)  
+#### Leptonic Decays @ CMS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb)  
 Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
