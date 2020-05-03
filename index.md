@@ -2,7 +2,7 @@
 title: CODING in K12  
 ---
 
-*I'm tinkering with the site layout and updating content. If something looks funny or you can't find what yo're looking for, drop an email to adamlamee@gmail.com.*  
+*May 3 & 4: I'm tinkering with the site layout and updating content. If something looks funny or you can't find what yo're looking for, drop an email to adamlamee@gmail.com.*  
 *Thanks, Adam*
 
 You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Click "run anway".  
