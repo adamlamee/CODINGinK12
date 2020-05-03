@@ -2,20 +2,14 @@
 title: CODING in K12  
 ---
 
-# Project Goals  
-- **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
-- **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
-- **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
-- **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience to experienced coders looking to customize.  
 
-# Coding Activities  
 You'll need to be logged in to a Google account. When you run an activity for the first time, expect to see a pop-up window warning these are hosted on GitHub (it's totally safe, that's why we use it). Click "run anway".  
 
 ## Start here
 - [Intro to Coding](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) is a 5-minute guide of how to use our activities. If you've never programmed before, this is a great place to start.  
 
 ## Earth & Space Science
-- [Quakes](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)[ipynb](https://github.com/adamlamee/CODINGinK12/raw/master/notebooks/quakes.ipynb) *Quakes* (https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) uncovers plate tectonics using seismic data.
 - [Global Temp](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) examines the effect of water on global climate using data from 1880-present.
 - [Stars](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) uses a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.
 - [Tides](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) plots 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.
