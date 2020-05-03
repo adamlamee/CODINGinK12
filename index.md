@@ -14,7 +14,7 @@ Next to any activity below, click the ![Open In Colab](https://colab.research.go
 **With a Microsoft login**  
 Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities to your cloud storage on Azure. As of May 2020 Azure doesn't support copying anything but the whole set of activities and data. If that changes, I'll update this page.  
   
-**With Jupyter software installed**
+**With Jupyter software installed**  
 Right-click on (.ipynb) next to any activity to save it to your computer. Then, use [Jupyter](https://jupyter.org/) to open it. Find instructions on the [implementing](./implementing) page.  
   
 ## Start here  
