@@ -22,8 +22,8 @@ Find instructions and other implementation info on the [teachers](./teachers) pa
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
   
 ## Earth & Space Science  
-**Quakes** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)  
-Uncover plate tectonics using seismic data.  
+**Quakes**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) Uncover plate tectonics using seismic data.  
   
 **Global Temperatures** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb)  
 Examine the effect of water on global climate using data from 1880-present.  
