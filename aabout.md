@@ -7,6 +7,8 @@ title: about
 -- OCPS, SCPS, Quarknet, ref my site
 - goals
 - team
+  - sam and lissa, hunter T., Tyler, Brooke
+  - Jeremy Smith, Peter Apps
 - license
 
 # Project Goals  
