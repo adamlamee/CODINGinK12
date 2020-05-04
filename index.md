@@ -9,7 +9,7 @@ Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. T
 
 ## How to Run an Activity  
 **With a Google login**  
-Next to any activity below, click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open it in Google Colab. You'll see a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
+Click ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) next to any activity below to open it in Google Colab. You'll get a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
   
 **With a Microsoft login**  
 Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities and data to your cloud storage on Azure. As of May 2020 Azure doesn't support copying just a single activity. If that changes, I'll post an update here.  
