@@ -28,7 +28,7 @@ It's a 5-minute guide on how to use our activities. If you've never programmed i
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) **Global Temperatures**  
 Examine the effect of water on global climate using data from 1880-present.  
   
-**Stars** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) **Stars**  
 Use a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.  
   
 **Tides** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb)  
