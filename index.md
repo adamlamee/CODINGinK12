@@ -22,22 +22,21 @@ Find instructions and other implementation info on the [teachers](./teachers) pa
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
   
 ## Earth & Space Science  
-**Quakes**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) Uncover plate tectonics using seismic data.  
+**Quakes** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)  
+Uncover plate tectonics using seismic data.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) **Global Temperatures**  
+**Global Temperatures** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb)  
 Examine the effect of water on global climate using data from 1880-present.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) **Stars**  
+**Stars** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb)  
 Use a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.  
   
 **Tides** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb)  
 Analyze 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.  
 
 ## Physics & Physical Science  
-<div style="font-size:large;">Elements</div>  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
+**Elements** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
 Look for trends in the periodic table.  
   
 **Matching Position Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb)  
