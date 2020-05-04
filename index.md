@@ -22,7 +22,7 @@ Find instructions and other implementation info on the [teachers](./teachers) pa
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
   
 ## Earth & Space Science  
-**Quakes**  
+          **Quakes**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) Uncover plate tectonics using seismic data.  
   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) **Global Temperatures**  
