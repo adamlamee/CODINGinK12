@@ -3,8 +3,9 @@ title: teachers
 ---
 
 - python, jupyter, colab, github
-- editing
+- editing, license
 - pedagogy, articles and refs, offer assistance
+- tips for implementing, scaling
 - why should students learn coding?
 - resources
 
