@@ -1,5 +1,5 @@
 ---
-title: implementation  
+title: teachers  
 ---
 
 # Project Goals  
