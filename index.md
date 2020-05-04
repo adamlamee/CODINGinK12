@@ -22,30 +22,30 @@ Find instructions and other implementation info on the [teachers](./teachers) pa
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
   
 ## Earth & Space Science  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb) **Quakes**  
+**Quakes** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)  
 Uncover plate tectonics using seismic data.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb) **Global Temperatures**  
+**Global Temperatures** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/global-temp.ipynb)  
 Examine the effect of water on global climate using data from 1880-present.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb) **Stars**  
+**Stars** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/stars.ipynb)  
 Use a huuuuuge star catalogue to look for patterns in brightness and temperature, create an H-R diagram, and see constellations.  
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) **Tides**  
+**Tides** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb)  
 Analyze 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.  
 
 ## Physics & Physical Science  
-**Elements**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) Look for trends in the periodic table.  
+**Elements** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
+Look for trends in the periodic table.  
   
-**Matching Position Graphs**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb) Model 1D motion and practice relating algebraic equations with the *position* graphs they represent.  
+**Matching Position Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb)  
+Model 1D motion and practice relating algebraic equations with the *position* graphs they represent.  
   
-**Matching Velocity Graphs**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) Model 1D motion and practice relating algebraic equations with the *velocity* graphs they represent.  
+**Matching Velocity Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb)  
+Model 1D motion and practice relating algebraic equations with the *velocity* graphs they represent.  
   
-**Invariant Mass**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb) Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
+**Invariant Mass** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb)  
+Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
   
-**Leptonic Decays @ CMS**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb) Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
+**Leptonic Decays @ CMS** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb)  
+Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
