@@ -2,7 +2,7 @@
 title: CODING in K12  
 ---
 
-*May 3 & 4: I'm tinkering with the site layout and updating content. If something looks funny or you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
+*May 3 & 4: I'm tinkering with the site layout and updating content. Sorry if something looks funny. If you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
 *Thanks, Adam*
 
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has pedagogy and implementation guides to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why thing this is so important.  
@@ -12,10 +12,10 @@ Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. T
 Next to any activity below, click the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open it in Google Colab. You'll see a pop-up each time you run an activity for the first time telling you it's hosted on Github (it's safe, that's why we use it). Click "run anyway".  
   
 **With a Microsoft login**  
-Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities to your cloud storage on Azure. As of May 2020 Azure doesn't support copying anything but the whole set of activities and data. If that changes, I'll update this page.  
+Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities and data to your cloud storage on Azure. As of May 2020 Azure doesn't support copying just a single activity. If that changes, I'll post an update here.  
   
 **With Jupyter software installed**  
-Find instructions on the [implementing](./implementing) page.  
+Find instructions and other implementation info on the [teachers](./teachers) page.  
   
 ## Start here  
 **Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
