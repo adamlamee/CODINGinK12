@@ -3,6 +3,7 @@ title: about
 ---
 
 - blurb
+-- history: CODER, SCPS
 -- OCPS, SCPS, Quarknet, ref my site
 - goals
 - team
