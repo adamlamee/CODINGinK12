@@ -35,7 +35,7 @@ Use a huuuuuge star catalogue to look for patterns in brightness and temperature
 Analyze 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.  
 
 ## Physics & Physical Science  
-<div style="font-size: 30px;">Elements</div>  
+<div style="font-size:large;">Elements</div>  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
 Look for trends in the periodic table.  
