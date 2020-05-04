@@ -31,17 +31,17 @@ It's a 5-minute guide on how to use our activities. If you've never programmed i
 **Tides** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/tides.ipynb) Analyze 5 years of sea-level height data to study the relationship between tides, moon phase, and the seasons.  
 
 ## Physics & Physical Science  
-**Elements** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb)  
-Look for trends in the periodic table.  
+**Elements**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/elements.ipynb) Look for trends in the periodic table.  
   
-**Matching Position Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb)  
-Model 1D motion and practice relating algebraic equations with the *position* graphs they represent.  
+**Matching Position Graphs**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-position-graphs.ipynb) Model 1D motion and practice relating algebraic equations with the *position* graphs they represent.  
   
-**Matching Velocity Graphs** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb)  
-Model 1D motion and practice relating algebraic equations with the *velocity* graphs they represent.  
+**Matching Velocity Graphs**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/matching-velocity-graphs.ipynb) Model 1D motion and practice relating algebraic equations with the *velocity* graphs they represent.  
   
-**Invariant Mass** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb)  
-Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
+**Invariant Mass**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/invariant-mass.ipynb) Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
   
-**Leptonic Decays @ CMS** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb)  
-Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
+**Leptonic Decays @ CMS**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb) Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
