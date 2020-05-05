@@ -2,6 +2,9 @@
 title: teachers  
 ---
 
+*May 3 -7: I'm tinkering with the site layout and updating content. Sorry if something looks funny. If you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
+*Thanks, Adam*
+
 # Do students really need coding?  
 There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. You may be surprised to see the [salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/). A dedicated computer science course, though, may not be the answer for all (or even most) students. Separate courses make it tough to reach students whose schedules are already full with remedial courses or electives, like team sports or the arts. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too. If we want to reach as many students as possible, required core subject area courses are where we should look. That's why our activities are aimed at content area teachers, mostly science at this point. 
 
