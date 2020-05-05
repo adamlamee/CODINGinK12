@@ -2,11 +2,6 @@
 title: about  
 ---
 
-- blurb
--- history: CODER, SCPS
--- OCPS, SCPS, Quarknet, ref my site
-
-
 # Project Goals  
 - **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
