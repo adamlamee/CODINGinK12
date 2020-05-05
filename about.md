@@ -7,7 +7,7 @@ title: about
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
 - **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
 - **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience to experienced coders looking to customize  
-- **develop activities on data science** to put research data into students' hands and to compliment the wealth of existing resources on simulation and animation, like the great stuff at [ComPADRE]( https://www.compadre.org/) using [vPython]( https://vpython.org/) and [Glowscript]( https://www.glowscript.org/docs/VPythonDocs/index.html)  
+- **develop data science activities** to put research data into students' hands and compliment the wealth of existing resources on simulation and animation, like the great stuff at [ComPADRE]( https://www.compadre.org/) using [vPython]( https://vpython.org/) and [Glowscript]( https://www.glowscript.org/docs/VPythonDocs/index.html)  
 
 # Our Story  
 It began with a conversation between Particle Physicist [Sergei Gleyzer]( http://sergeigleyzer.com/) and Physics teacher [Adam LaMee](http://www.adamlamee.com). That led to a [US-CMS]( https://uscms.org/) mini-grant to fund Project CODER, a pair of workshops in the summer of 2016 hosted by the physics departments at [UCF]( https://sciences.ucf.edu/physics/) and [UF]( https://www.phys.ufl.edu/wp/) to expose middle and high school teachers to [CMS OpenData]( http://opendata.cern.ch/docs/about-cms) and [Jupyter notebooks]( https://jupyter.org/).  
