@@ -8,6 +8,16 @@ title: about
 - **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
 - **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience to experienced coders looking to customize  
 -**develop activities on data science** to put research data into students' hands and to compliment the wealth of existing resources on simulation and animation, like the great stuff at [ComPADRE]( https://www.compadre.org/) using [vPython]( https://vpython.org/) and [Glowscript]( https://www.glowscript.org/docs/VPythonDocs/index.html)  
+
+# Our Story  
+It began with a conversation between Particle Physicist [Sergei Gleyzer]( http://sergeigleyzer.com/) and Physics teacher [Adam LaMee](http://www.adamlamee.com). That led to a [US-CMS]( https://uscms.org/) mini-grant to fund Project CODER, a pair of workshops in the summer of 2016 hosted by the physics departments at [UCF]( https://sciences.ucf.edu/physics/) and [UF]( https://www.phys.ufl.edu/wp/) to expose middle and high school teachers to [CMS OpenData]( http://opendata.cern.ch/docs/about-cms) and [Jupyter notebooks]( https://jupyter.org/).  
+
+By 2017, Adam was leading a staff of undergraduates and classroom teachers developing activities for students in Seminole County, one of Florida’s science leaders. We also developed activities on particle physics which have become staples for the [Quarknet program]( https://quarknet.org/)’s residential teacher workshop, Data Camp, held at Fermilab each summer. That was soon followed by an announcement from the Superintendent of Orange County Public Schools, the nation’s 9th largest school district with over 13,000 students per grade level:  
+
+> “… students will gain meaningful exposure to coding in the Python programming language through traditional science instruction.”
+
+&#261D; &#2191; *That was us, too*. We started with five activities for each 6th grade science class districtwide, then again for 7th grade the next year. COVID-19 put us on pause, but we’re looking forward continuing with grades 8-12. Those students will have a competitive advantage over their peers when applying for skilled labor jobs, trade school, and university admissions. Want to do the same in your area? Drop me a line at adamlamee@gmail.com.  
+
   
 # The Team
 [Adam LaMee](http://www.adamlamee.com) is the project lead and developed most of our activities. He’s a physics educator with decades of experience in curriculum development, assessment research, and data science who helped create Florida’s secondary course descriptions and teacher certification exams. He’s currently a [Quarknet]( https://quarknet.org/) Teaching and Learning Fellow and the PhysTEC Teacher-in-Residence at the University of Central Florida.  
