@@ -2,9 +2,6 @@
 title: CODING in K12  
 ---
 
-*May 3 -7: I'm tinkering with the site layout and updating content. Sorry if something looks funny. If you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
-*Thanks, Adam*
-
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has pedagogy and implementation guides to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why thing this is so important.  
 
 ## How to Run an Activity  
