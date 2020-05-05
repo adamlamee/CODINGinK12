@@ -23,7 +23,7 @@ Public scientific data couldn’t make it into our activities without staff to s
 There's increasing momentum for coding in schools and that's a good thing. Every student should be exposed to computer programming -- equal access to lucrative careers depends on it. However, a dedicated computer science course is not the answer for all (or even most) students. Math and science courses are prime territory for this task. You may be surprised to see the [salaries and backgrounds] (https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/).  
 
 # License  
-Our activities are published under a [Creative Commons Attribution-ShareAlike 4.0 International License]( https://creativecommons.org/licenses/by-sa/4.0/). In short, these resources are free to use and modify if you give credit, like you see in the footer of each notebook, but they aren’t for resale. Read the full legalese [here]( https://creativecommons.org/licenses/by-sa/4.0/). The data sets in the activities aren’t ours and are credited, by use.  
+Our activities are published under a [Creative Commons Attribution-ShareAlike 4.0 International License]( https://creativecommons.org/licenses/by-sa/4.0/). In short, these resources are free to use and modify provided you give credit, like what you see in the footer of each notebook, but they aren’t for resale. Read the full legalese [here]( https://creativecommons.org/licenses/by-sa/4.0/). The data sets in the activities aren’t ours and are credited, by use.  
 
 If you’d like activities tailored to your needs or you’re interested in commercial or proprietary use, we’ll be happy to develop resources for your organization. Send inquiries to adamlamee@gmail.com.
 
