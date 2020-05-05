@@ -2,15 +2,11 @@
 title: teachers  
 ---
 
-- python, jupyter, colab, github
-- editing, see license on ./about.md
-- pedagogy, articles and refs, offer assistance
-- tips for implementing, scaling
-
 # Do students really need coding?  
 There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. You may be surprised to see the [salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/). A dedicated computer science course, though, may not be the answer for all (or even most) students. Separate courses make it tough to reach students whose schedules are already full with remedial courses or electives, like team sports or the arts. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too. If we want to reach as many students as possible, required core subject area courses are where we should look. That's why our activities are aimed at content area teachers, mostly science at this point. 
 
 # The Tools We Use
+tips for implementing, scaling
 ### Python
 asd
 asd
@@ -19,16 +15,18 @@ as
 asd
 asd
 asd
-### Colab
+### Colab & Azure
 asd
 asd
 asd
-### Gihub
+### GitHub
 asd
 asd
 asd
 
 # More text
+- pedagogy, articles and refs, offer assistance
+- editing, see license on ./about.md
 
 Teachers have enough to cover without adding computer programming to the list. Our goal is to use computer programming as a tool to address science content - the coding is secondary. You won't see loops and conditionals taught explicitly, but that allows non-CS-fluent teachers to use these activities with their classes. They also don't have much extra formatting, answer keys, or explanatory text. They work well for teachers new to scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Google's Colaboratory has become our go-to platform for easy implementation in a variety of settings. It lets you run these Jupyter notebooks from any device with a browser (desktop, mobile, or otherwise). Want the raw notebook files? See the [project GitHub](https://github.com/adamlamee/CODINGinK12). 
 
