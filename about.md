@@ -16,7 +16,7 @@ By 2017, Adam was leading a staff of undergraduates and classroom teachers devel
 
 > “… students will gain meaningful exposure to coding in the Python programming language through traditional science instruction.”
 
-&#9757; &#8593; *That was us, too*. We started with five activities for each 6th grade science class districtwide, then again for 7th grade the next year. COVID-19 put us on pause, but we’re looking forward continuing with grades 8-12. Those students will have a competitive advantage over their peers when applying for skilled labor jobs, trade school, and university admissions. Want to do the same in your area? Drop me a line at adamlamee@gmail.com.  
+&#9757; *That was us, too*. We started with five activities for each 6th grade science class districtwide, then again for 7th grade the next year. COVID-19 put us on pause, but we’re looking forward continuing with grades 8-12. Those students will have a competitive advantage over their peers when applying for skilled labor jobs, trade school, and university admissions. Want to do the same in your area? Drop me a line at adamlamee@gmail.com.  
 
   
 # The Team
