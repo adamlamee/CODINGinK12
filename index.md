@@ -1,5 +1,5 @@
 ---
-title: CODING in K12  
+title: CODINGinK12  
 ---
 
 Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has pedagogy and implementation guides to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why this is so important.  
