@@ -13,7 +13,7 @@ tips for implementing, scaling
 ### Python  
 [Python](https://www.python.org/) is a programing language commonly used in scientific research and data science. You may have heard of other languages, such as C++, Java, Fortran, or BASIC. Python tends to have fewer syntax rules and extra characters making it more human-readable that some of the alternatives. That means students often can infer what the code does just by looking at it.  
 
-Since we’re focusing primarily on the science content, these activities don’t teach programming explicitly. If you or your students want to learn about loops, conditionals, functions, and other computer science fundamentals, there are high-quality free tutorials on the web. Check out [Python.org]( https://wiki.python.org/moin/BeginnersGuide/Programmers), [Khan Academy]( https://www.khanacademy.org/computing/computer-science), [DataCamp.com]( https://www.datacamp.com/courses/intro-to-python-for-data-science), and YouTube’s [Programming with Mosh]( https://www.youtube.com/watch?v=_uQrJ0TkZlc).  
+Since we focus primarily on the science content, these activities don’t teach programming explicitly. If you or your students want to learn about loops, conditionals, functions, and other computer science fundamentals, there are high-quality free tutorials on the web. Check out [Python.org]( https://wiki.python.org/moin/BeginnersGuide/Programmers), [Khan Academy]( https://www.khanacademy.org/computing/computer-science), [DataCamp.com]( https://www.datacamp.com/courses/intro-to-python-for-data-science), and YouTube’s [Programming with Mosh]( https://www.youtube.com/watch?v=_uQrJ0TkZlc).  
 
 ### Jupyter
 asd
