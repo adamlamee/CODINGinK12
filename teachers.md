@@ -6,14 +6,15 @@ title: teachers
 *Thanks, Adam*
 
 # Do students really need coding?  
-There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. You may be surprised to see the [salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/). A dedicated computer science course, though, may not be the answer for all (or even most) students. Separate courses make it tough to reach students whose schedules are already full with remedial courses or electives, like team sports or the arts. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too. If we want to reach as many students as possible, required core subject area courses are where we should look. That's why our activities are aimed at content area teachers, mostly science at this point. 
+There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. You may be surprised to see the [salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/). A dedicated computer science course, though, may not be the answer for all (or even most) students. Separate courses make it tough to reach students whose schedules are already full with remedial courses or electives, like team sports or the arts. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too. If we want to reach as many students as possible, required core subject area courses are where we should look. That's why our activities are aimed at content area teachers. It's mostly science at this point, but you can send suggestions or contribute an activity you wrote by emailing adamlamee@gmail.com.  
 
 # The Tools We Use
 tips for implementing, scaling
-### Python
-asd
-asd
-as
+### Python  
+[Python](https://www.python.org/) is a programing language commonly used in scientific research and data science. You may have heard of other languages, such as C++, Java, Fortran, or BASIC. Python tends to have fewer syntax rules and extra characters making it more human-readable that some of the alternatives. That means students often can infer what the code does just by looking at it.  
+
+Since we’re focusing primarily on the science content, these activities don’t teach programming explicitly. If you or your students want to learn about loops, conditionals, functions, and other computer science fundamentals, there are high-quality free tutorials on the web. Check out [Python.org]( https://wiki.python.org/moin/BeginnersGuide/Programmers), [Khan Academy]( https://www.khanacademy.org/computing/computer-science), [DataCamp.com]( https://www.datacamp.com/courses/intro-to-python-for-data-science), and YouTube’s [Programming with Mosh]( https://www.youtube.com/watch?v=_uQrJ0TkZlc).  
+
 ### Jupyter
 asd
 asd
