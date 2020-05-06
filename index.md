@@ -12,7 +12,7 @@ Click ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 Click on this button [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb) to copy the entire set of activities and data to your cloud storage on Azure. As of May 2020 Azure doesn't support copying just a single activity. If that changes, I'll post an update here.  
   
 **With Jupyter software installed**  
-Find instructions and other implementation info on the [teachers](./teachers) page.  
+See the [teachers](./teachers) page for which software to install and where to download the activities.  
   
 ## Start here  
 **Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
