@@ -2,7 +2,7 @@
 title: CODINGinK12  
 ---
 
-Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers) has tips on pedagogy and implementation to help you integrate coding into your class. Visit the [about page](./about) to learn about the team and why this is so important.  
+Thanks for visiting the [CODINGinK12.org](http://www.CODINGinK12.org) project. The [teachers page](./teachers.md) has tips on pedagogy and implementation to help you integrate coding into your class. Visit the [about page](./about.md) to learn about the team and why this is so important.  
 
 ## How to Run an Activity  
 **With a Google login**  
