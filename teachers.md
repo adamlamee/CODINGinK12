@@ -28,6 +28,9 @@ You can install Jupyter locally on you device, but for K12 schools getting softw
 [GitHub]( https://github.com/) is cloud storage, team collaboration, and version tracking all in one. Professional programmers and organizations use it to host their code and keep track of who made which edit when. We use it to host our notebooks and the data files they analyze. Colab has a great feature that allows us to create a URL that opens a notebook on GitHub in your own Colab window. The ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) buttons on the [home page](./index.md) do just that. As of May 2020, Azure doesn’t support linking to individual notebooks, but you can copy the entire project (all notebooks and data) to your Azure account and run them.  
 
 # Advice on Implementation  
+### Make it your own  
+Our notebooks don't have much extra formatting or explanatory text. They work well for teachers new to scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Seeing what [Seminole County](https://github.com/SCPSscience) and [Orange County](https://github.com/ocps-codes) created for their students may give you some ideas. We love hearing about how teachers are implementing or adapting this. Drop an email to adamlamee@gmail.com.  
+
 ### Feed your high flyers  
 We've intentionally designed our activities to allow interested students to do further analysis than what's prompted and we're often amazed at what they come up with. If that's not enough, try suggesting these other free (and amazing) resources:  
 - [CERN Open Data](http://opendata.cern.ch/?ln=en) includes educational resources on particle physics and offers students (and the general public) the opportunity to access and analyze authentic data for the Large Hardon Collider. Yeah, it's pretty cool.  
@@ -35,6 +38,3 @@ We've intentionally designed our activities to allow interested students to do f
 - [Shawn Weatherford's](http://www.phys.ufl.edu/~sweatherford/) work on vPython and Glowscript.  
 - [Let's Code Physics YouTube channel](https://www.youtube.com/channel/UCWBTKIyw-zX-2k63cB6qciQ)  
 - [STEM Coding](https://u.osu.edu/stemcoding/)  
-
-### Make it your own  
-Our notebooks don't have much extra formatting or explanatory text. They work well for teachers new to scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Seeing what [Seminole County](https://github.com/SCPSscience) and [Orange County](https://github.com/ocps-codes) created for their students may give you some ideas. We love hearing about how teachers are implementing or adapting this. Drop an email to adamlamee@gmail.com.  
