@@ -29,7 +29,7 @@ You can install Jupyter locally on you device, but for K12 schools getting softw
 
 # Advice on Implementation  
 ### Make it your own  
-Our notebooks don't have much extra formatting or explanatory text. They work well for teachers new to scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Seeing what [Seminole County](https://github.com/SCPSscience) and [Orange County](https://github.com/ocps-codes) created for their students may give you some ideas. We love hearing about how teachers are implementing or adapting this. Drop an email to adamlamee@gmail.com.  
+Our activities don't have much extra formatting or explanatory text. They work well for teachers new to scientific computing and, if you're a minimalist, can be used as-is with your students. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc. Seeing what [Seminole County](https://github.com/SCPSscience) and [Orange County](https://github.com/ocps-codes) created for their students may give you some ideas. We love hearing about how teachers are implementing or adapting this. Drop an email to adamlamee@gmail.com.  
 
 ### Feed your high flyers  
 We've intentionally designed our activities to allow interested students to do further analysis than what's prompted and we're often amazed at what they come up with. If that's not enough, try suggesting these other free (and amazing) resources:  
