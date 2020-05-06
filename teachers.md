@@ -5,7 +5,7 @@ title: teachers
 *May 3 -7: I'm tinkering with the site layout and updating content. Sorry if something looks funny. If you can't find what you're looking for, drop an email to adamlamee@gmail.com.*  
 *Thanks, Adam*
 
-There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. Here's how we're helping make that happen.
+If you like the activities and want to integrate coding into you class, school, or district, we're happy to share what has worked well for us and what hasn't. Below, you'll find a short description of each of the digital tools we use followed by advice on implementation at a range of scales.  
 
 # The Tools We Use
 ### Python  
@@ -27,3 +27,4 @@ You can install Jupyter locally on you device, but for K12 schools getting softw
 ### GitHub  
 [GitHub]( https://github.com/) is cloud storage, team collaboration, and version tracking all in one. Professional programmers and organizations use it to host their code and keep track of who made which edit when. We use it to host our notebooks and the data files they analyze. Colab has a great feature that allows us to create a URL that opens a notebook on GitHub in your own Colab window. The ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) buttons on the [home page](./index.md) do just that. As of May 2020, Azure doesn’t support linking to individual notebooks, but you can copy the entire project (all notebooks and data) to your Azure account and run them.  
 
+# Advice on Implementation  
