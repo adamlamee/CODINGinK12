@@ -24,10 +24,8 @@ The easiest was to run our activities is through an online interactive service l
 ### Colab & Azure  
 You can install Jupyter locally on you device, but for K12 schools getting software installed can be anywhere from tough to impossible. [Google Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb), or *Colab*, has revolutionized how we use Jupyter notebooks with students and in teacher professional development. The only downside is it requires a Google account. That may not be a big deal for you or your students, particularly if your school uses Google Classroom. Running a notebook on Colab is great for older computers since it doesn’t use your processor for the heavy lifting. Like any other Google Doc/Sheet/Slide, you can save it to your Drive and even have multiple users editing simultaneously. If you’d rather use a Microsoft product, there’s Azure which similarly let’s you run and save our notebooks in the cloud using your Microsoft or Outlook365 account. We haven’t used this service much (as of May 2020), but I’ll update here after using it in some workshops this summer.  
 
-### GitHub
-asd
-asd
-asd
+### GitHub  
+[GitHub]( https://github.com/) is cloud storage, team collaboration, and version tracking all in one. Professional programmers and organizations use it to host their code and keep track of who made which edit when. We use it to host our activities and the data files they analyze. It turns out having a notebook hosted on Colab read in a data file form GitHub is easier than reading it from anywhere else, even Drive.  
 
 # More text
 - pedagogy, articles and refs, offer assistance
