@@ -9,7 +9,6 @@ title: teachers
 There's increasing momentum for coding in schools and that's a good thing. Equal access to lucrative careers depends on every student being exposed to computer programming. You may be surprised to see the [salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/). A dedicated computer science course, though, may not be the answer for all (or even most) students. Separate courses make it tough to reach students whose schedules are already full with remedial courses or electives, like team sports or the arts. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too. If we want to reach as many students as possible, required core subject area courses are where we should look. That's why our activities are aimed at content area teachers. It's mostly science at this point, but you can send suggestions or contribute an activity you wrote by emailing adamlamee@gmail.com.  
 
 # The Tools We Use
-tips for implementing, scaling
 ### Python  
 [Python](https://www.python.org/) is a programing language commonly used in scientific research and data science. You may have heard of other languages, such as C++, Java, Fortran, or BASIC. Python tends to have fewer syntax rules and extra characters making it more human-readable that some of the alternatives. That means students often can infer what the code does just by looking at it.  
 
@@ -22,10 +21,9 @@ Jupyter runs is a browser window which makes it appear more familiar – and les
 
 The easiest was to run our activities is through an online interactive service like Google’s Colaboratory, described below. If you’d prefer to install Jupyter on your computer to run programs ‘locally’, download and install [Anaconda]( https://www.anaconda.com/products/individual). It contains Jupyter, Python, and all the other behind-the-scenes stuff your computer will need.  
 
-### Colab & Azure
-asd
-asd
-asd
+### Colab & Azure  
+You can install Jupyter locally on you device, but for K12 schools getting software installed can be anywhere from tough to impossible. [Google Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb), or *Colab*, has revolutionized how we use Jupyter notebooks with students and in teacher professional development. The only downside is it requires a Google account. That may not be a big deal for you or your students, particularly if your school uses Google Classroom. Running a notebook on Colab is great for older computers since it doesn’t use your processor for the heavy lifting. Like any other Google Doc/Sheet/Slide, you can save it to your Drive and even have multiple users editing simultaneously. If you’d rather use a Microsoft product, there’s Azure which similarly let’s you run and save our notebooks in the cloud using your Microsoft or Outlook365 account. We haven’t used this service much (as of May 2020), but I’ll update here after using it in some workshops this summer.  
+
 ### GitHub
 asd
 asd
