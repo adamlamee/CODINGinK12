@@ -6,7 +6,7 @@ title: about
 - **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
 - **increase equity and access** by reaching students through core courses with activities designed that teach science first, with coding as a tool  
-- **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience to experienced coders looking to customize  
+- **make it easy to implement** by using intuitive, free software and fully-editable activities designed for teachers with no prior coding experience  
 - **develop data science activities** that put research data into students' hands and compliment the wealth of existing resources on simulation and animation, like the great stuff at [ComPADRE]( https://www.compadre.org/) using [vPython]( https://vpython.org/) and [Glowscript]( https://www.glowscript.org/docs/VPythonDocs/index.html)  
 
 # Our Story  
