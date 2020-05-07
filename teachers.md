@@ -30,6 +30,18 @@ You can install Jupyter locally on you device, but for K12 schools getting softw
 # Advice on Implementation  
 Use our activities as-is, edit and adapt them for your students, or let us work with your team. We can help you develop an implementation plan that suits your organization's needs and resources. We have a strong record of offering high-quality professional development and district-level strategic planning on coding, physical science content, reformed pedagogy, and digital literacy. Schedule a consultation at adamlamee@gmail.com.  
 
+### Aim for reaching most students  
+- A dedicated computer science course may not be the answer, particularly for students whose schedules are already full with remedial courses or electives. Kids who ride the bus or don't have other transportation can miss out on after-school clubs, too.  
+- Embedding coding into required core subject area courses increases equity and access, regardless of a student's background or family income. That's why our activities are aimed at content area teachers. It's mostly science at this point, but you can send suggestions or contribute an activity you wrote by emailing adamlamee@gmail.com.  
+
+### Get them on your side  
+Data and testimonials can help get students, parents, teachers, and administrators to join the cause. Here are some we’ve found useful:  
+- [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc) video from CODE.org with lots of celebs encouraging more coding in K12  
+- [Pair Programming]( https://www.youtube.com/watch?v=vgkahOzFH2Q) how-to video from CODE.org  
+- [Ten quick tips for teaching programming](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023) from PLOS  
+- [AAPT Recommendations for Computational Physics in the Undergraduate Physics Curriculum]( https://www.aapt.org/Resources/upload/AAPT_UCTF_CompPhysReport_final_B.pdf)  
+- [Salaries and backgrounds](https://orlandodevs.com/blog/orlando-devs-salaries-2017) of computer programmers in Central Florida, courtesy of [Orlando Devs](https://orlandodevs.com/)  
+
 ### Training is key  
 - Learning the tools plus learning how coding enriches your current course takes time. It’s not like learning a new gradebook program.  
 - Don’t worry about debugging code or deciphering error messages. Do train teachers until they’re confident in their ability to guide a struggling student through the process of undoing an edit, restarting the runtime (or kernel), and reloading a clean copy of the notebook.  
@@ -38,10 +50,10 @@ Use our activities as-is, edit and adapt them for your students, or let us work 
 ### Make it your own  
 - Our activities don't have much extra formatting or explanatory text. If you prefer your students to have more detailed instructions, they're easy to edit for a different presentation, sequence, question type, etc.  
 - Seeing what [Seminole County](https://github.com/SCPSscience) and [Orange County](https://github.com/ocps-codes) created for their students may give you some ideas.  
-- Our activities are licensed CC-BY-SA which means they're free to use and modify as long as you give credit. See the [about page](./about.md) for license text. And drop a line to adamlamee@gmail.com. We love hearing how teachers are adapting them.  
+- Our activities are licensed CC-BY-SA which means they're free to use and modify as long as you give credit. See the [about page](./about.md) for license text. Drop us a line to adamlamee@gmail.com, too. We love hearing how teachers are adapting them.  
 
 ### Feed your high flyers  
-Our activities allow interested students to do further analysis than what's prompted and we're often amazed at what they come up with. If that's not enough, try suggesting these other free (and amazing) resources:  
+Our activities allow for interested students doing more analysis than what's in the directions and we're often amazed at what they come up with. If that's not enough, try suggesting these other free (and amazing) resources:  
 - [CERN Open Data](http://opendata.cern.ch/?ln=en) includes educational resources on particle physics and offers students (and the general public) the opportunity to access and analyze authentic data for the Large Hardon Collider. Yeah, it's pretty cool.  
 - [Particle Physics Playground](http://particle-physics-playground.github.io/), by Matt Bellis, provides Jupyter notebook exercises with particle detector data from CMS and CLEO.  
 - [Shawn Weatherford's](http://www.phys.ufl.edu/~sweatherford/) work on vPython and Glowscript.  
