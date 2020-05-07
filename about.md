@@ -2,6 +2,8 @@
 title: about  
 ---
 
+Teachers have enough to cover without adding computer programming to the list. Our goal is to use computer programming as a tool to address course content - the coding is secondary. You won't see loops and conditionals taught explicitly, but that has allowed non-CS-fluent teachers to use these activities with their classes. Embedding coding into core courses increases equity and access, regardless of a student's background or family income. That's why our activities are aimed at content area teachers. They're mostly science, but you can send suggestions or contribute an activity you wrote by emailing adamlamee@gmail.com.  
+
 # Project Goals  
 - **bridge the gap** between drag-and-drop coding games (like the wonderful work of [CODE.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)) and traditional *Intro to Computer Science* courses that teach programming from a blank terminal  
 - **use pro-level software and languages** so students can continue to build upon their experiences through college and career  
