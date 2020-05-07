@@ -27,7 +27,7 @@ Public scientific data couldn’t make it into our activities without staff to s
 A critical part of the project's success has been the interest from school district science supervisors. The amazing Rachel Hallett-Njuguna and Rebecca Ray recognized the unique potential for preparing all students for careers in STEM, regardless of gender, background, or family income, and chose to make it a priority. They’re joined by hundreds of middle and high school teachers who have done the *real* work of adapting and implementing these activities with the next generation of computationally literate citizens and scientists.  
   
 # License  
-Our activities are published under a [Creative Commons Attribution-ShareAlike 4.0 International License]( https://creativecommons.org/licenses/by-sa/4.0/). In short, these resources are free to use and modify provided you give credit, like what you see in the footer of each notebook, but they aren’t for resale. Read the full legalese [here]( https://creativecommons.org/licenses/by-sa/4.0/). The data sets in the activities aren’t ours and are credited, by use.  
+Our activities are published under a [Creative Commons Attribution-ShareAlike 4.0 International License]( https://creativecommons.org/licenses/by-sa/4.0/). In short, these resources are free to use and modify provided you give credit, like what you see in the footer of each notebook. Read the full legalese [here]( https://creativecommons.org/licenses/by-sa/4.0/). The data sets in the activities aren’t ours and are credited, by use.  
 
 If you’d like activities tailored to your needs or you’re interested in commercial or proprietary use, we’ll be happy to develop resources for your organization. Send inquiries to adamlamee@gmail.com.
 
