@@ -46,4 +46,6 @@ Model 1D motion and practice relating algebraic equations with the *velocity* gr
 Practice vector addition while you learn the basics of relativistic kinematics using data from CERN's LHC.  
   
 **Leptonic Decays @ CMS** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/leptonic-decays.ipynb)  
-Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).
+Apply conservation of charge, energy, and momentum to hunt for particles in data from CERN's LHC; used in Quarknet's Data Camp (grades 9-16).  
+
+We're adding activities all the time. Have a suggestion or want to contribute? Email adamlamee@gmail.com.  
