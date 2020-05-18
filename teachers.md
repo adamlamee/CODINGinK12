@@ -58,3 +58,4 @@ Our activities allow for interested students doing more analysis than what's in 
 - [Shawn Weatherford's](http://www.phys.ufl.edu/~sweatherford/) work on vPython and Glowscript.  
 - [Let's Code Physics YouTube channel](https://www.youtube.com/channel/UCWBTKIyw-zX-2k63cB6qciQ)  
 - [STEM Coding](https://u.osu.edu/stemcoding/)  
+- [Dimitrios Theodorakis's high school Astronomy activities](https://github.com/DimitriosAstro/Astronomy)  
