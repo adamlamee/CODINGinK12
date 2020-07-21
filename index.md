@@ -18,6 +18,10 @@ See the [teachers](./teachers) page for which software to install and where to d
 **Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
   
+## Life Science  
+**Populations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/populations.ipynb)  
+Compare predator and prey populations in the Florida Everglades over time.  
+  
 ## Earth & Space Science  
 **Quakes** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/quakes.ipynb)  
 Uncover plate tectonics using seismic data.  
