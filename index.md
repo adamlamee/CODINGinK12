@@ -14,7 +14,11 @@ See the [teachers](./teachers) page for which software to install and where to d
 ## Start here  
 **Intro to Coding** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)  
 It's a 5-minute guide on how to use our activities. If you've never programmed in a Jupyter notebook before, this is a great place to start.  
-  
+
+## General Lab Investigations  
+**Reading data from a Google Sheet** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/Read_from_Drive_example.ipynb)  
+Have your own spreadsheet data? Put it in a Google Sheet and analyze is in a Jupyter notebook. Here's how.
+
 ## Life Science  
 **Populations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/populations.ipynb)  
 Compare predator and prey populations in the Florida Everglades over time.  
