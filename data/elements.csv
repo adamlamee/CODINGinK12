@@ -1,4 +1,4 @@
-AtomicNumber,Symbol,Name,AtomicMass,AtomicRadius,IonRadius,Color,ElectronicConfiguration,Electronegativity,VdWRadius,IE-1 (kJ/mol),EA (kJ/mol),Oxidation States,StandardState,BondingType,MeltingPoint,BoilingPoint,Density,Type,YearDiscovered
+AtomicNumber,Symbol,Name,AtomicMass,AtomicRadius,IonRadius,Color,ElectronicConfiguration,Electronegativity,VdWRadius,Ionization Energy (kJ/mol),Electron Affinity (kJ/mol),Oxidation States,StandardState,BondingType,MeltingPoint,BoilingPoint,Density,Type,YearDiscovered
 1, H , Hydrogen,1.00794,37,,FFFFFF,1s1 ,2.2,120,1312,73,"-1, 1",gas,diatomic,14,20,8.99E-05,nonmetal,1766
 2, He , Helium,4.002602,32,,D9FFFF,1s2 ,0,140,2372,0,,gas,atomic,,4,0,noble gas,1868
 3, Li , Lithium,6.941,134,76,CC80FF,[He] 2s1 ,0.98,182,520,60,1,solid,metallic,454,1615,0.54,alkali metal,1817
